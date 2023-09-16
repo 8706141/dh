@@ -4,6 +4,7 @@ var bd = {
 		{"name": "哔哩哔哩","action": "https://search.bilibili.com/all?keyword=","website": "https://search.bilibili.com/"},
 		{"name": "淘宝","action": "https://s.taobao.com/search?q=","website": "https://s.taobao.com/"},
 		{"name": "百度","action": "https://www.baidu.com/s?wd=","website": "https://www.baidu.com/"},
+		{"name": "百度","action": "https://www.baidu.com/s?wd=","website": "https://www.baidu.com/"},
 		{"name": "昵图","action": "https://soso.nipic.com/?q=","website": "https://nipic.com/"}
 	],
 	"link": [
