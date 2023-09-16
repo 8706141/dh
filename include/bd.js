@@ -7,9 +7,7 @@ var bd = {
 		{"name": "百度","action": "https://www.baidu.com/s?wd=","website": "https://www.baidu.com/"},
 		{"name": "昵图","action": "https://soso.nipic.com/?q=","website": "https://nipic.com/"}
 		{"name": "昵图","action": "https://soso.nipic.com/?q=","website": "https://nipic.com/"}
-		 {"name": "图行天下","action": "https://www.photophoto.cn/?q=","website": "https://www.photophoto.cn/"}
-		  {"name": "昵图","action": "https://soso.nipic.com/?q=","website": "https://nipic.com/"}
-		   {"name": "昵图","action": "https://soso.nipic.com/?q=","website": "https://nipic.com/"}
+		{"name": "图行天下","action": "https://www.photophoto.cn/?q=","website": "https://www.photophoto.cn/"}
 	],
 	"link": [
 		{
@@ -17,11 +15,11 @@ var bd = {
 			"contain": 
 			[
 				{"name": "豆瓣","link": "https://www.douban.com","icon": "","span": "豆"},
-				{"name": "微博","link": "https://weibo.com/","icon": "sina-weibo","span": ""},
-				{"name": "微信","link": "https://wx.qq.com/","icon": "wechat","span": ""},
-				{"name": "知乎","link": "https://www.zhihu.com/","icon": "","span": "知"},
-				{"name": "贴吧","link": "https://tieba.baidu.com/index.html","icon": "","span": "du"},
-				{"name": "淘个图","link": "https://www.taogetu.com/materialDownload","icon": "","span": "淘"}
+				{"name": "微博"，"link": "https://weibo.com/"，"icon": "sina-weibo","span": ""},
+				{"name": "微信","link": "https://wx.qq.com/"，"icon": "wechat","span": ""},
+				{"name": "知乎","link": "https://www.zhihu.com/"，"icon": "","span": "知"}，
+				{"name": "贴吧","link": "https://tieba.baidu.com/index.html"，"icon": "","span": "du"},
+				{"name": "淘个图","link": "https://www.taogetu.com/materialDownload"，"icon": "","span": "淘"}
 			]
 		},
 		{
