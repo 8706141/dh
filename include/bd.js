@@ -5,7 +5,6 @@ var bd = {
 		{"name": "淘宝","action": "https://s.taobao.com/search?q=","website": "https://s.taobao.com/"},
 		{"name": "百度","action": "https://www.baidu.com/s?wd=","website": "https://www.baidu.com/"},
 		{"name": "昵图","action": "https://soso.nipic.com/?q=","website": "https://nipic.com/"}
-		{"name": "youtube","action": "https://www.youtube.com/results?search_query=","website": "https://youtube.com/"}
 	],
 	"link": [
 		{
@@ -26,19 +25,19 @@ var bd = {
 			[
 				{"name": "少数派"，"link": "https://sspai.com/"，"icon": "pi","span": ""},
 				{"name": "github","link": "https://github.com/"，"icon": "github","span": ""},
-				{"name": "菜鸟","link": "https://www.runoob.com/","icon": "language-html5","span": ""},
-				{"name": "w3school","link": "https://www.w3school.com.cn/","icon": "","span": "W3"},
-				{"name": "MDI","link": "https://materialdesignicons.com/","icon": "vector-square","span": ""}
+				{"name": "菜鸟","link": "https://www.runoob.com/"，"icon": "language-html5","span": ""},
+				{"name": "w3school","link": "https://www.w3school.com.cn/"，"icon": "","span": "W3"},
+				{"name": "MDI","link": "https://materialdesignicons.com/"，"icon": "vector-square","span": ""}
 			]
 		},
 		{
 			"pagination": "视频",
 			"contain": 
 			[
-				{"name": "爱奇艺","link": "https://www.iqiyi.com/","icon": "","span": "QIY"},
-				{"name": "腾讯视频","link": "https://v.qq.com/","icon": "google-play","span": ""},
-				{"name": "优酷","link": "https://www.youku.com/","icon": "play-box","span": ""},
-				{"name": "CCTV","link": "https://tv.cctv.com/live/cctv1/?","icon": "cctv","span": ""}
+				{"name": "爱奇艺"，"link": "https://www.iqiyi.com/"，"icon": "","span": "QIY"},
+				{"name": "腾讯视频","link": "https://v.qq.com/"，"icon": "google-play","span": ""},
+				{"name": "优酷","link": "https://www.youku.com/"，"icon": "play-box","span": ""},
+				{"name": "CCTV","link": "https://tv.cctv.com/live/cctv1/?"，"icon": "cctv","span": ""}
 			]
 		}
 	]
