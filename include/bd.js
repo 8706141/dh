@@ -6,8 +6,7 @@ var bd = {
 		{"name": "狗东","action": "https://search.jd.com/Search?keyword=","website": "https://jd.com/"},
 		{"name": "百度","action": "https://www.baidu.com/s?wd=","website": "https://www.baidu.com/"},
 		{"name": "昵图","action": "https://soso.nipic.com/?q=","website": "https://nipic.com/"}
-		{"name": "昵图","action": "https://soso.nipic.com/?q=","website": "https://nipic.com/"}
-		{"name": "图行天下","action": "https://www.photophoto.cn/?q=","website": "https://www.photophoto.cn/"}
+		{"name": "图行天下","action": "https://www.photophoto.cn/?q=","website": "https://photophoto.cn/"}
 	],
 	"link": [
 		{
@@ -26,8 +25,8 @@ var bd = {
 			"pagination": "学习",
 			"contain": 
 			[
-				{"name": "少数派","link": "https://sspai.com/","icon": "pi","span": ""},
-				{"name": "github","link": "https://github.com/","icon": "github","span": ""},
+				{"name": "少数派"，"link": "https://sspai.com/"，"icon": "pi","span": ""},
+				{"name": "github","link": "https://github.com/"，"icon": "github","span": ""},
 				{"name": "菜鸟","link": "https://www.runoob.com/","icon": "language-html5","span": ""},
 				{"name": "w3school","link": "https://www.w3school.com.cn/","icon": "","span": "W3"},
 				{"name": "MDI","link": "https://materialdesignicons.com/","icon": "vector-square","span": ""}
