@@ -8,7 +8,7 @@ var bd = {
 		{"name": "小红书","action": "https://www.xiaohongshu.com/search_result?keyword=","website": "https://www.xiaohongshu.com/"},
 		{"name": "shutterstock","action": "https://www.shutterstock.com/zh/search/","website": "https://www.shutterstock.com/"},
 		{"name": "昵图","action": "https://soso.nipic.com/?q=","website": "https://nipic.com/"},
-		{"name": "图行天下","action": "https://www.photophoto.cn/all/=","website": "https://www.photophoto.cn/all/"},
+		{"name": "图行天下","action": "https://www.photophoto.cn/all/?q=","website": "https://www.photophoto.cn/all/"},
 		{"name": "duck","action": "https://duckduckgo.com/?q=","website": "https://duckduckgo.com/"}
 	],
 	"link": [
