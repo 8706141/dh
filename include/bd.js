@@ -3,7 +3,6 @@ var bd = {
 		{"name": "谷歌","action": "https://www.google.com/search?q=","website": "https://www.google.com/"},
 		{"name": "哔哩哔哩","action": "https://search.bilibili.com/all?keyword=","website": "https://search.bilibili.com/"},
 		{"name": "淘宝","action": "https://s.taobao.com/search?q=","website": "https://s.taobao.com/"},
-		{"name": "狗东","action": "https://search.jd.com/Search?keyword=","website": "https://jd.com/"},
 		{"name": "百度","action": "https://www.baidu.com/s?wd=","website": "https://www.baidu.com/"},
 		{"name": "昵图","action": "https://soso.nipic.com/?q=","website": "https://nipic.com/"}
 		{"name": "youtube","action": "https://www.youtube.com/results?search_query=","website": "https://youtube.com/"}
