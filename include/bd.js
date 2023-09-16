@@ -5,6 +5,7 @@ var bd = {
 		{"name": "淘宝","action": "https://s.taobao.com/search?q=","website": "https://s.taobao.com/"},
 		{"name": "狗东","action": "https://search.jd.com/Search?keyword=","website": "https://jd.com/"},
 		{"name": "百度","action": "https://www.baidu.com/s?wd=","website": "https://www.baidu.com/"},
+		{"name": "百度","action": "https://www.baidu.com/s?wd=","website": "https://www.baidu.com/"},
 		{"name": "duck","action": "https://duckduckgo.com/?q=","website": "https://duckduckgo.com/"}
 	],
 	"link": [
