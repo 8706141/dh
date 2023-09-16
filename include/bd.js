@@ -6,7 +6,7 @@ var bd = {
 		{"name": "狗东","action": "https://search.jd.com/Search?keyword=","website": "https://jd.com/"},
 		{"name": "百度","action": "https://www.baidu.com/s?wd=","website": "https://www.baidu.com/"},
 		{"name": "昵图","action": "https://soso.nipic.com/?q=","website": "https://nipic.com/"}
-		{"name": "图行天下","action": "https://www.photophoto.cn/?q=","website": "https://photophoto.cn/"}
+		{"name": "youtube","action": "https://www.youtube.com/results?search_query=","website": "https://youtube.co/"}
 	],
 	"link": [
 		{
