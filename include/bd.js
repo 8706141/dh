@@ -7,7 +7,7 @@ var bd = {
 		{"name": "百度","action": "https://www.baidu.com/s?wd=","website": "https://www.baidu.com/"},
 		{"name": "昵图","action": "https://soso.nipic.com/?q=","website": "https://nipic.com/"}
 		{"name": "昵图","action": "https://soso.nipic.com/?q=","website": "https://nipic.com/"}
-		 {"name": "图行天下","action": "https://www.photophoto.cn/all/%s.html","website": "https://www.photophoto.cn/"}
+		 {"name": "图行天下","action": "https://www.photophoto.cn//?q=","website": "https://www.photophoto.cn/"}
 		  {"name": "昵图","action": "https://soso.nipic.com/?q=","website": "https://nipic.com/"}
 		   {"name": "昵图","action": "https://soso.nipic.com/?q=","website": "https://nipic.com/"}
 	],
