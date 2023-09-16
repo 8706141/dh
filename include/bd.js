@@ -10,7 +10,7 @@ var bd = {
 		{"name": "昵图","action": "https://soso.nipic.com/?q=","website": "https://nipic.com/"},
 		{"name": "图行天下","action": "https://www.photophoto.cn/all/?q.html","website": "https://www.photophoto.cn/"},
 		{"name": "翻译","action": "https://fanyi.baidu.com/#zh/en/","website": "https://fanyi.baidu.com/"}
-	],
+	]
 	"link": [
 		{
 			"pagination": "常用",
