@@ -7,7 +7,7 @@ var bd = {
 		{"name": "狗东","action": "https://search.jd.com/Search?keyword=","website": "https://jd.com/"},
 		{"name": "youtube","action": "https://www.youtube.com/results?search_query=","website": "https://www.youtube.com/"},
 		{"name": "小红书","action": "https://www.xiaohongshu.com/search_result?keyword=","website": "https://www.xiaohongshu.com/"},
-		{"name": "百度","action": "https://www.baidu.com/s?wd=","website": "https://www.baidu.com/"},
+		{"name": "shutterstock","action": "https://www.shutterstock.com/zh/search/","website": "https://www.shutterstock.com/"},
 		{"name": "百度","action": "https://www.baidu.com/s?wd=","website": "https://www.baidu.com/"},
 		{"name": "百度","action": "https://www.baidu.com/s?wd=","website": "https://www.baidu.com/"},
 		{"name": "duck","action": "https://duckduckgo.com/?q=","website": "https://duckduckgo.com/"}
