@@ -17,7 +17,7 @@ var bd = {
 				{"name": "微信","link": "https://wx.qq.com/","icon": "wechat","span": ""},
 				{"name": "知乎","link": "https://www.zhihu.com/","icon": "","span": "知"},
 				{"name": "贴吧","link": "https://tieba.baidu.com/index.html","icon": "","span": "du"},
-				{"name": "v2ex","link": "https://www.v2ex.com/","icon": "","span": "V"}
+				{"name": "淘个图","link": "https://www.taogetu.com/materialDownload","icon": "","span": "淘"}
 			]
 		},
 		{
