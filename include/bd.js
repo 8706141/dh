@@ -20,7 +20,7 @@ var bd = {
 				{"name": "微博","link": "https://weibo.com/","icon": "sina-weibo","span": ""},
 				{"name": "导航","link": "https://8706141.github.io/nav/","icon": "","span": "导"},
 				{"name": "贴吧","link": "https://tieba.baidu.com/index.html","icon": "","span": "du"},
-				{"name": "QQ邮箱","link": "{"name": "贴吧","link": "https://tieba.baidu.com/index.html","icon": "","span": ""},","icon": "","span": "邮"},
+				{"name": "邮箱","link": "https://mail.qq.com/","icon": "","span": "QQ"},
 				{"name": "淘个图","link": "https://www.taogetu.com/materialDownload","icon": "","span": "淘"}
 			]
 		},
@@ -39,10 +39,10 @@ var bd = {
 			"pagination": "工具",
 			"contain": 
 			[
-				{"name": "爱奇艺","link": "https://www.iqiyi.com/","icon": "","span": "QIY"},
-				{"name": "腾讯视频","link": "https://v.qq.com/","icon": "google-play","span": ""},
-				{"name": "优酷","link": "https://www.youku.com/","icon": "play-box","span": ""},
-				{"name": "CCTV","link": "https://tv.cctv.com/live/cctv1/?","icon": "cctv","span": ""}
+				{"name": "爱奇艺","link": "https://www.iqiyi.com/"，"icon": "","span": "QIY"},
+				{"name": "腾讯视频","link": "https://v.qq.com/"，"icon": "google-play","span": ""},
+				{"name": "优酷","link": "https://www.youku.com/"，"icon": "play-box","span": ""},
+				{"name": "CCTV","link": "https://tv.cctv.com/live/cctv1/?"，"icon": "cctv","span": ""}
 			]
 		}
 	]
