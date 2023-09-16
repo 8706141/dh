@@ -13,7 +13,7 @@ var bd = {
 	],
 	"link": [
 		{
-			"pagination": "社交媒体",
+			"pagination": "常用",
 			"contain": 
 			[
 				{"name": "后台","link": "https://github.com/8706141/dh/blob/main/include/bd.js","icon": "","span": "后"},
@@ -24,7 +24,7 @@ var bd = {
 			]
 		},
 		{
-			"pagination": "学习",
+			"pagination": "网站",
 			"contain": 
 			[
 				{"name": "少数派","link": "https://sspai.com/","icon": "pi","span": ""},
@@ -35,7 +35,7 @@ var bd = {
 			]
 		},
 		{
-			"pagination": "视频",
+			"pagination": "工具",
 			"contain": 
 			[
 				{"name": "爱奇艺","link": "https://www.iqiyi.com/","icon": "","span": "QIY"},
