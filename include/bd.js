@@ -20,7 +20,7 @@ var bd = {
 				{"name": "微博","link": "https://weibo.com/","icon": "sina-weibo","span": ""},
 				{"name": "导航","link": "https://8706141.github.io/nav/","icon": "","span": "导"},
 				{"name": "贴吧","link": "https://tieba.baidu.com/index.html","icon": "","span": "du"},
-				{"name": "邮箱","link": "https://mail.qq.com/","icon": "","span": "QQ"},
+				{"name": "邮箱","link": "https://mail.qq.com/","icon": "","span": "qq"},
 				{"name": "淘个图","link": "https://www.taogetu.com/materialDownload","icon": "","span": "淘"}
 			]
 		},
