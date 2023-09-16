@@ -16,7 +16,7 @@ var bd = {
 			"pagination": "社交媒体",
 			"contain": 
 			[
-				{"name": "豆瓣","link": "https://www.douban.com","icon": "","span": "豆"},
+				{"name": "后台","link": "https://github.com/8706141/dh/blob/main/include/bd.js","icon": "","span": "后"},
 				{"name": "微博","link": "https://weibo.com/","icon": "sina-weibo","span": ""},
 				{"name": "微信","link": "https://wx.qq.com/","icon": "wechat","span": ""},
 				{"name": "知乎","link": "https://www.zhihu.com/","icon": "","span": "知"},
